@@ -39,8 +39,9 @@ body{
     margin:0 6px;
 }
 .hover:hover{
-    background-color: rgb(0, 0, 0);
-    color: #fff;
+    background-color: rgba(0, 0, 0, 0.062);
+    color:#fff;
+    font-size:20px;
 }
 .img-capa{
     width: 50%;
